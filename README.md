@@ -106,11 +106,13 @@ The sample dataset intentionally contains inconsistent date formats, missing val
 ### Executive Summary
 
 Management-level summary highlighting key variances, issue counts and forecast metrics.
+
 <img width="375" height="333" alt="FPA_Tool Executive_Summary" src="https://github.com/user-attachments/assets/fd87c8af-da47-4031-8b37-6dfe660dd20c" />
 
 ### Driver-Based Forecast
 
 Three-month forecast generated using configurable business drivers and assumptions.
+
 <img width="380" height="365" alt="FPA_Tool Driver_Forecast" src="https://github.com/user-attachments/assets/ec8efcfe-bf7c-4020-b327-f369e8ddf86a" />
 
 ---
