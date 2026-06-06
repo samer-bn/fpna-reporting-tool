@@ -73,9 +73,8 @@ The forecasting approach uses a simplified FP&A driver-based model built around 
 fpna-reporting-tool/
 │
 ├── FP&A_Reporting_Tool.ipynb
-├── sample_financials.xlsx
-├── sample_output/
-│   └─ fpna_report_v1.xlsx
+├── sample_financials_FPA.xlsx
+├── fpna_report_v1.xlsx
 └── README.md
 ```
 
