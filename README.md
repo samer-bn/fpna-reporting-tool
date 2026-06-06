@@ -100,6 +100,7 @@ The tool automatically generates:
 ### Sample Input Dataset
 
 The sample dataset intentionally contains inconsistent date formats, missing values and non-numeric entries to demonstrate the tool's data quality validation capabilities.
+
 <img width="384" height="592" alt="FPA_Tool Sample_Input" src="https://github.com/user-attachments/assets/dd61a8db-e84c-418a-a3d2-4452ba5c992e" />
 
 ### Executive Summary
