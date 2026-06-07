@@ -18,7 +18,9 @@ Finance teams often spend significant time manually:
 - Building forecast files
 - Identifying key performance issues
 
-This project demonstrates how Python can automate large portions of that workflow while improving reporting consistency and transparency.
+Manual processes increase the risk of errors, reduce consistency across reporting cycles, and limit the time available for analysis and decision support.
+
+This project demonstrates how Python can automate key FP&A reporting activities while improving transparency and repeatability.
 
 ---
 
@@ -90,6 +92,7 @@ The tool automatically generates:
 | Monthly Breakdown | Monthly performance review |
 | Driver Forecast | Forecast output by business unit and account |
 | Forecast Methodology | Forecast assumptions and logic |
+| Three Month Forecast | Complete forecast breakdown |
 | Data Quality Issues | Data validation findings |
 
 ---
@@ -129,13 +132,15 @@ The forecasting approach uses a simplified FP&A driver-based model.
 
 ---
 
-## Example Use Cases
+## Business Value
 
-- Monthly FP&A reporting
-- Budget vs Actual analysis
-- Management performance reviews
-- Forecast preparation
-- Financial data quality monitoring
+| Process Area | Traditional Workflow | Automated Workflow |
+|-------------|---------------------|-------------------|
+| Data Validation | Manual review of missing values, date formats and input errors | Automated detection and reporting of data quality issues |
+| Variance Analysis | Spreadsheet formulas and manual investigation | Automated variance calculations and severity classification |
+| Management Reporting | Manual report preparation and consolidation | Automated generation of executive reporting outputs |
+| Forecast Preparation | Manual maintenance of forecast files | Driver-based forecast generation using configurable assumptions |
+| Auditability | Risk of manual overwrites and inconsistent calculations | Transparent and repeatable calculation logic |
 
 ---
 
